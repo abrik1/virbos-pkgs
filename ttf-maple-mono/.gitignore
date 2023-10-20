@@ -4,5 +4,5 @@ PKGBUILD
 pkg/
 src/
 
-# alacritty-specific
-alacritty/
+ttf-maple-*.zip
+ttf-maple-mono-LICENSE
